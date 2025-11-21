@@ -1,0 +1,262 @@
+[
+  {
+    "id": "yks-tyt-2026",
+    "name": "YKS - TYT",
+    "date": "2026-06-20T10:15:00",
+    "description": "Temel Yeterlilik Testi",
+    "leaveDays": "Sınav",
+    "totalOff": "Cumartesi",
+    "category": "sinav",
+    "url": "/p/yks-sinavina-kac-gun-kaldi.html"
+  },
+  {
+    "id": "yilbasi-2026",
+    "name": "Yılbaşı",
+    "date": "2026-01-01T00:00:00",
+    "description": "1 Ocak 2026 Perşembe",
+    "leaveDays": "1 gün izin",
+    "totalOff": "4 gün tatil",
+    "category": "resmi",
+    "url": "/p/yilbasi-2026.html"
+  },
+  {
+    "id": "ramazan-2026",
+    "name": "Ramazan Bayramı",
+    "date": "2026-03-20T00:00:00",
+    "description": "20 – 22 Mart 2026",
+    "leaveDays": "1.5 gün izin",
+    "totalOff": "4 gün tatil",
+    "category": "dini",
+    "url": "/p/ramazan-bayrami-2026.html"
+  },
+  {
+    "id": "23-nisan-2026",
+    "name": "Ulusal Egemenlik ve Çocuk Bayramı",
+    "date": "2026-04-23T00:00:00",
+    "description": "23 Nisan 2026 Perşembe",
+    "leaveDays": "1 gün izin",
+    "totalOff": "4 gün tatil",
+    "category": "resmi",
+    "url": "/p/23-nisan-2026.html"
+  },
+  {
+    "id": "1-mayis-2026",
+    "name": "Emek ve Dayanışma Günü",
+    "date": "2026-05-01T00:00:00",
+    "description": "1 Mayıs 2026 Cuma",
+    "leaveDays": "0 gün izin",
+    "totalOff": "3 gün tatil",
+    "category": "resmi",
+    "url": "/p/1-mayis-2026.html"
+  },
+  {
+    "id": "19-mayis-2026",
+    "name": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+    "date": "2026-05-19T00:00:00",
+    "description": "19 Mayıs 2026 Salı",
+    "leaveDays": "1 gün izin",
+    "totalOff": "4 gün tatil",
+    "category": "resmi",
+    "url": "/p/19-mayis-2026.html"
+  },
+  {
+    "id": "kurban-2026",
+    "name": "Kurban Bayramı",
+    "date": "2026-05-27T00:00:00",
+    "description": "27 – 30 Mayıs 2026",
+    "leaveDays": "2 gün izin",
+    "totalOff": "9 gün tatil",
+    "category": "dini",
+    "url": "/p/kurban-bayrami-2026.html"
+  },
+  {
+    "id": "15-temmuz-2026",
+    "name": "Demokrasi ve Milli Birlik Günü",
+    "date": "2026-07-15T00:00:00",
+    "description": "15 Temmuz 2026 Çarşamba",
+    "leaveDays": "2 gün izin",
+    "totalOff": "5 gün tatil",
+    "category": "resmi",
+    "url": "/p/15-temmuz-2026.html"
+  },
+  {
+    "id": "30-agustos-2026",
+    "name": "Zafer Bayramı",
+    "date": "2026-08-30T00:00:00",
+    "description": "30 Ağustos 2026 Pazar",
+    "leaveDays": "Haftasonu",
+    "totalOff": "Normal Tatil",
+    "category": "resmi",
+    "url": "/p/30-agustos-2026.html"
+  },
+  {
+    "id": "29-ekim-2026",
+    "name": "Cumhuriyet Bayramı",
+    "date": "2026-10-29T00:00:00",
+    "description": "29 Ekim 2026 Perşembe",
+    "leaveDays": "1 gün izin",
+    "totalOff": "4 gün tatil",
+    "category": "resmi",
+    "url": "/p/29-ekim-2026.html"
+  },
+  {
+    "id": "msu-2026",
+    "name": "MSÜ Sınavı",
+    "date": "2026-03-01T10:15:00",
+    "description": "Milli Savunma Üniversitesi",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/msu-2026.html"
+  },
+  {
+    "id": "yokdil-1-2026",
+    "name": "YÖKDİL / 1",
+    "date": "2026-03-08T10:15:00",
+    "description": "Yükseköğretim Kurumları Yabancı Dil Sınavı",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/yokdil-2026.html"
+  },
+  {
+    "id": "tus-1-2026",
+    "name": "TUS 1. Dönem",
+    "date": "2026-03-15T10:15:00",
+    "description": "Tıpta Uzmanlık Sınavı",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/tus-2026.html"
+  },
+  {
+    "id": "yds-1-2026",
+    "name": "YDS / 1",
+    "date": "2026-04-05T10:15:00",
+    "description": "Yabancı Dil Bilgisi Seviye Tespit Sınavı",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/yds-2026.html"
+  },
+  {
+    "id": "ales-1-2026",
+    "name": "ALES / 1",
+    "date": "2026-05-10T10:15:00",
+    "description": "Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/ales-2026.html"
+  },
+  {
+    "id": "yks-ayt-2026",
+    "name": "YKS - AYT",
+    "date": "2026-06-21T10:15:00",
+    "description": "Alan Yeterlilik Testleri",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/yks-2026.html"
+  },
+  {
+    "id": "meb-ags-2026",
+    "name": "MEB AGS / ÖABT",
+    "date": "2026-07-12T10:15:00",
+    "description": "Öğretmenlik Alan Bilgisi Testi",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/kpss-2026.html"
+  },
+  {
+    "id": "dgs-2026",
+    "name": "DGS",
+    "date": "2026-07-19T10:15:00",
+    "description": "Dikey Geçiş Sınavı",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/dgs-2026.html"
+  },
+  {
+    "id": "ales-2-2026",
+    "name": "ALES / 2",
+    "date": "2026-07-26T10:15:00",
+    "description": "Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/ales-2026.html"
+  },
+  {
+    "id": "yokdil-2-2026",
+    "name": "YÖKDİL / 2",
+    "date": "2026-08-02T10:15:00",
+    "description": "Yükseköğretim Kurumları Yabancı Dil Sınavı",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/yokdil-2026.html"
+  },
+  {
+    "id": "kpss-lisans-2026",
+    "name": "KPSS Lisans (GY-GK)",
+    "date": "2026-09-06T10:15:00",
+    "description": "Genel Yetenek - Genel Kültür",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/kpss-2026.html"
+  },
+  {
+    "id": "kpss-alan-2026",
+    "name": "KPSS Lisans (Alan)",
+    "date": "2026-09-12T10:15:00",
+    "description": "Alan Bilgisi Sınavları",
+    "leaveDays": "Sınav",
+    "totalOff": "Cmt-Paz",
+    "category": "sinav",
+    "url": "/p/kpss-2026.html"
+  },
+  {
+    "id": "kpss-onlisans-2026",
+    "name": "KPSS Önlisans",
+    "date": "2026-10-04T10:15:00",
+    "description": "Önlisans Düzeyi",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/kpss-2026.html"
+  },
+  {
+    "id": "kpss-ortaogretim-2026",
+    "name": "KPSS Ortaöğretim",
+    "date": "2026-10-25T10:15:00",
+    "description": "Lise Düzeyi",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/kpss-2026.html"
+  },
+  {
+    "id": "yds-2-2026",
+    "name": "YDS / 2",
+    "date": "2026-11-22T10:15:00",
+    "description": "Yabancı Dil Bilgisi Seviye Tespit Sınavı",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/yds-2026.html"
+  },
+  {
+    "id": "ales-3-2026",
+    "name": "ALES / 3",
+    "date": "2026-11-29T10:15:00",
+    "description": "Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı",
+    "leaveDays": "Sınav",
+    "totalOff": "Pazar",
+    "category": "sinav",
+    "url": "/p/ales-2026.html"
+  }
+]
